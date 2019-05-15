@@ -11,9 +11,9 @@ module.exports = {
 		'close',
 		'error'
 	],
-	ACCOUNT: 'ban_3zi3ku5dqbdn1uzggcu9gggut1bojsa1a1jurdqnmcnohy94nu6bo3fo19cp',
+	ACCOUNT: 'copy địa chỉ vô',
 	REF: {
-		'powerplant.banano.cc': 19,
+		'powerplant.banano.cc': 19, // số tiền đưa cho thằng ref
 		'bananominer.arikado.ru': 860
 	}
 };
